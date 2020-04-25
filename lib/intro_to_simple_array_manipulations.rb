@@ -4,12 +4,12 @@ end
  
 
   
-def using_insert
+#def using_insert
   
-def using_uniq
+#def using_uniq
   
-def using_flatten
+#def using_flatten
   
-def using_delete
+#def using_delete
 
-def using_delete_at
+#def using_delete_at
