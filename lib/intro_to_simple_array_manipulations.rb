@@ -10,7 +10,7 @@ def using_uniq(array)
   new_array = array.uniq
 end
 
-def using_flatten
+def using_flatten(array)
   new_array.to_s = array.flatten
 end  
 #def using_delete
