@@ -5,6 +5,7 @@ end
 def using_insert(array, element)
   new_array = array.insert(element, 4)
 end
+
 #def using_uniq
   
 #def using_flatten
