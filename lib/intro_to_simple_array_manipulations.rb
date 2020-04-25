@@ -6,4 +6,5 @@ def using_uniq
   
 def using_flatten
   
-def 
+def using_delete
+
